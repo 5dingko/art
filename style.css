@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.rightJS { 
+  background: #61845f; 
+  font-family: SF Display,Helvetica,Helvetica Neue,Roboto,Noto Sans KR,sans-serif;
+  font-weight: 200;
+  letter-spacing: 0.001em;
+  color: #f1f1f1;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
